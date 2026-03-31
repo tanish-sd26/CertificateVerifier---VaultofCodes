@@ -15,7 +15,7 @@ function verifyStudent() {
         <img src="pic.png">
         <p><strong>Name:</strong> Tanisha S. Maurya</p>
         <p><strong>Email:</strong> mauryatanisha824@gmail.com</p>
-        <p><strong>Mobile:</strong> +91 9370138110</p>
+        <p><strong>Mobile:</strong> +91 93********</p>
         <p><strong>College:</strong> Mumbai University</p>
         <p><strong>Certificate ID:</strong> vc245</p>
         <p><strong>Course:</strong> Web Development Internship</p>
