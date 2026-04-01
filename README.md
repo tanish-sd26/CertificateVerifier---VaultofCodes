@@ -24,4 +24,5 @@ It simulates a real-world certificate validation system used by edtech platforms
 - Understanding how certificate verification systems work in edtech platforms
 
 ## 📸 Screenshots 
-<img width="1117" height="858" alt="Screenshot 2026-03-31 at 20-01-14 VaultofCodes - Certificate Verifier" src="https://github.com/user-attachments/assets/14331d8b-8ad0-44e2-9c16-aecf19687a70" />
+<img width="1286" height="876" alt="image" src="https://github.com/user-attachments/assets/b79ec5bb-f595-4447-84ea-29e0298c2cf3" />
+
